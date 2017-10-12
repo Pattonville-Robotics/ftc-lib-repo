@@ -15,4 +15,6 @@ compile 'org.first.ftc:hardware:3.4'
 compile 'org.first.ftc:ftc-common:3.4'
 compile 'org.first.ftc:analytics:3.4'
 compile 'org.first.ftc:wireless-p2p:3.4'
+
+compile 'org.first.ftc:vuforia-incomplete:3.4'
 ```
