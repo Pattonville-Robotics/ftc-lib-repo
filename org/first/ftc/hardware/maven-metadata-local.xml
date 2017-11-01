@@ -3,10 +3,11 @@
   <groupId>org.first.ftc</groupId>
   <artifactId>hardware</artifactId>
   <versioning>
-    <release>3.4</release>
+    <release>3.5</release>
     <versions>
       <version>3.4</version>
+      <version>3.5</version>
     </versions>
-    <lastUpdated>20171012211529</lastUpdated>
+    <lastUpdated>20171101011719</lastUpdated>
   </versioning>
 </metadata>
